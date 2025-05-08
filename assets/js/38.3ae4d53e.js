@@ -422,13 +422,13 @@
                     'a',
                     {
                       attrs: {
-                        href: 'https://fk.yfk66.top//links/23F2CDE7',
+                        href: 'https://fk.i6ls.com//links/23F2CDE7',
                         target: '_blank',
                         rel: 'noopener noreferrer'
                       }
                     },
                     [
-                      t._v('https://fk.yfk66.top//links/23F2CDE7'),
+                      t._v('https://fk.i6ls.com//links/23F2CDE7'),
                       a('OutboundLink')
                     ],
                     1
