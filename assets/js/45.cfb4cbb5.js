@@ -342,12 +342,15 @@
                       'a',
                       {
                         attrs: {
-                          href: 'https://yeka.ai/i/GPT005',
+                          href: 'https://bewild.ai?code=GPT005',
                           target: '_blank',
                           rel: 'noopener noreferrer'
                         }
                       },
-                      [t._v('https://yeka.ai/i/GPT005'), s('OutboundLink')],
+                      [
+                        t._v('https://bewild.ai?code=GPT005'),
+                        s('OutboundLink')
+                      ],
                       1
                     ),
                     t._v(' 👈，打开官网后，点击立即体验')

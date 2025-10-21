@@ -223,7 +223,7 @@
                     'a',
                     {
                       attrs: {
-                        href: 'https://yeka.ai/i/GPT005',
+                        href: 'https://bewild.ai?code=GPT005',
                         target: '_blank',
                         rel: 'noopener noreferrer'
                       }
@@ -271,7 +271,7 @@
                     'a',
                     {
                       attrs: {
-                        href: 'https://yeka.ai/i/GPT005',
+                        href: 'https://bewild.ai?code=GPT005',
                         target: '_blank',
                         rel: 'noopener noreferrer'
                       }
